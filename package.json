@@ -26,7 +26,7 @@
     "eslint-plugin-vue": "^5.0.0",
     "gsap": "^3.0.4",
     "jquery": "^3.4.1",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "prettier": "^1.19.1",
     "stylus": "^0.54.7",
     "stylus-loader": "^3.0.2",
